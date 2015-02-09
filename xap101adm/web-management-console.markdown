@@ -42,6 +42,9 @@ Physical resources
 [Data Grid View](./web-management-data-grid-view.html){%wbr%}
 Cluster wide information about your data grids including: data queries, metrics, metadata etc.
 
+[Monitoring](./web-management-monitoring-view.html){%wbr%}
+Monitoring metrics by built-in grafana console.
+
 {%endfpanel%}
 
 <br>
